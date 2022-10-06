@@ -1,4 +1,4 @@
-# CSI5155
+# CSI5155 Assignment 1 - Supervised Learning – Binary Classification
 
 This is my submission for CSI5155 Machine Learning, Assignment 1 - Supervised Learning – Binary Classification.
 
